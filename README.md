@@ -1,12 +1,6 @@
 # 📝 To-Do App
 
-Welcome to the **To-Do App**! This app will help you stay organized, crush your tasks, and feel like a productivity master. 🚀
-
-> **Warning**: Your productivity might skyrocket, and you might even feel like crossing off tasks just for fun. 😎
-
----
-
-## 🚀 How to Run This App on Your Machine
+## How to Run This App on Your Machine
 
 ### Step 1: Clone the Repository
 ```bash
